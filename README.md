@@ -1,2 +1,3 @@
 # RFM-Model
-General structure of a RFM Model with Python for a Colombian medium size retailer.
+Estructura general de un modelo RFM básico usando Python.
+General structure of a basic RFM Model with Python.
